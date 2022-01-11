@@ -1,0 +1,14 @@
+{
+    "highscores": [
+        {
+            "date": "2021-11-13",
+            "score": "200",
+            "username": "user1"
+        },
+        {
+            "date": "2021-10-13",
+            "score": "199",
+            "username": "user2"
+        }
+    ]
+}
